@@ -1,0 +1,55 @@
+@media  (max-width: 575.98px) { 
+    .navbar {
+        padding: 20px 0
+    }
+    .navbar-brand {
+        transform: scale(0.9);
+    }
+    .banner-text h3 {
+        font-size: 28px;
+    }
+    .banner-text h1 {
+        font-size: 45px;
+    }
+    .right {
+       display: none !important;
+    }
+    .left {
+       display: none !important;
+    }
+    .banner-text p {
+        font-size: 13px;
+    }
+    .banner-text {
+        padding-bottom: 46px;
+    }
+    #banner {
+        padding-top: 170px;
+        padding-bottom: 120px;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    }
+    .banner-button a {
+        width: 130px;
+        padding: 12px 0;
+        font-size: 14px;
+    }
+    .common-title p {
+            width: 100%;
+  
+    }
+
+    .about-top-part .circle {
+        display: none;
+    }
+    .about-top p {
+        font-size: 13px;
+        width: 100%;
+    }
+    .about-top .shape {
+       display: none;
+    }
+ }
+
+
+
+
